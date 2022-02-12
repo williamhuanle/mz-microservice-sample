@@ -1,0 +1,6 @@
+rootProject.name = 'mz-microservice-sample'
+include 'mz-core'
+include 'mz-infra'
+include 'mz-services'
+include 'mz-starter'
+
